@@ -1,0 +1,22 @@
+.bg-purple{
+    background-color: #6f42c1;
+    color: aqua;
+}
+.container1{
+    padding: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+    align-items: center;
+}
+.nav-link{
+    font-size: 20px;
+    color:deeppink;
+}
+.card-header-title{
+    text-align: center;
+    color: aqua;
+    font-size: 25px;
+    align-items: center;
+}
